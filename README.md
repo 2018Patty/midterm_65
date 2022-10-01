@@ -1,2 +1,9 @@
 # midterm_65
 <img src="images/readme/Slide1.jpeg">
+<img src="images/readme/Slide2.jpeg">
+<img src="images/readme/Slide3.jpeg">
+<img src="images/readme/Slide4.jpeg">
+<img src="images/readme/Slide5.jpeg">
+<img src="images/readme/Slide6.jpeg">
+<img src="images/readme/Slide7.jpeg">
+<img src="images/readme/Slide8.jpeg">
